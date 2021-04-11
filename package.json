@@ -1,15 +1,8 @@
 {
   "name": "markdown-it-faxes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Markdown-it - modern pluggable markdown parser. Minor class edits by FAXES.",
-  "keywords": [
-    "markdown",
-    "parser",
-    "commonmark",
-    "markdown-it",
-    "markdown-it-plugin"
-  ],
-  "repository": "markdown-it/markdown-it",
+  "repository": "FAXES/markdown-it-faxes",
   "license": "MIT",
   "main": "index.js",
   "bin": {
