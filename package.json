@@ -1,7 +1,7 @@
 {
   "name": "markdown-it-faxes",
-  "version": "1.0.9",
-  "description": "Markdown-it - modern pluggable markdown parser. Minor class edits by FAXES.",
+  "version": "1.1.0",
+  "description": "Markdown-it - modern pluggable markdown parser. Class edits and additions by FAXES.",
   "repository": "FAXES/markdown-it-faxes",
   "license": "MIT",
   "main": "index.js",
